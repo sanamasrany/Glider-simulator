@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spare Rope
+* source:	https://sketchfab.com/3d-models/spare-rope-c1c9ce07cc7d44b99208f041a4b32c8f
+* author:	ANCook (https://sketchfab.com/ANCook)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spare Rope" (https://sketchfab.com/3d-models/spare-rope-c1c9ce07cc7d44b99208f041a4b32c8f) by ANCook (https://sketchfab.com/ANCook) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

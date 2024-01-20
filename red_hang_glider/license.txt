@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-Poly Red Hang Glider
+* source:	https://sketchfab.com/3d-models/low-poly-red-hang-glider-30ff1695434442278b02a590cf2deba7
+* author:	JordanPessman (https://sketchfab.com/JordanPessman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-Poly Red Hang Glider" (https://sketchfab.com/3d-models/low-poly-red-hang-glider-30ff1695434442278b02a590cf2deba7) by JordanPessman (https://sketchfab.com/JordanPessman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
