@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    overflow: hidden;
+}
+
+.webgl {
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+.content {
+    position: fixed;
+    nav-up: 0;
+    color: #f1f1f1;
+    width: 90%;
+    padding: 100px;
+    text-align: right;
+}
+
+#but {
+    width: 200px;
+    font-size: 25px;
+    padding: 10px;
+    border: none;
+    background: #f36c2d;
+    color: #fff;
+    cursor: pointer;
+}
+
+#but1 {
+    width: 200px;
+    font-size: 25px;
+    padding: 10px;
+    border: none;
+    background: #f36c2d;
+    color: #fff;
+    cursor: pointer;
+}
+
+#but2 {
+    width: 200px;
+    font-size: 25px;
+    padding: 10px;
+    border: none;
+    background: #f36c2d;
+    color: #fff;
+    cursor: pointer;
+}
+
+#but3 {
+    width: 200px;
+    font-size: 25px;
+    padding: 10px;
+    border: none;
+    background: #f36c2d;
+    color: #fff;
+    cursor: pointer;
+}
+
+#myVideo {
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}

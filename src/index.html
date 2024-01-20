@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glider simulation</title>
+    <link rel="stylesheet" href="./style.css">
+
+
+</head>
+
+<body>
+
+
+
+    <!-- <style>
+        body {
+            background-image: url('Movies & TV 8_16_2023 9_37_22 PM.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style> -->
+
+
+    <!-- The video -->
+    <video autoplay muted loop id="myVideo">
+    <source src="capsule_616x353.mp4" type="video/mp4">
+  </video>
+
+    <div class="content">
+
+
+        <button id="but" onclick="myfun1()"> Glider </button>
+        <button id="but1" onclick="myfun2()"> Sport Trike </button>
+        <button id="but2" onclick="myfun3()"> Glider2 </button>
+        <button id="but3" onclick="myfun4()"> Hang Glider </button>
+        <input type="hidden" id="para" value=0>
+    </div>
+
+
+
+
+
+
+    <script>
+        function myfun1() {
+            document.getElementById("para").value = 1;
+            var s = document.createElement("script");
+            s.type = "module";
+            s.src = "./script.js";
+            var canv = document.createElement('canvas');
+            canv.id = 'can';
+            canv.classList.add("webgl");
+            document.body.appendChild(canv);
+            document.body.appendChild(s);
+            document.getElementById("but").style.display = "none";
+
+
+        }
+
+        function myfun2() {
+            document.getElementById("para").value = 0;
+            var s = document.createElement("script");
+            s.type = "module";
+            s.src = "./script.js";
+            var canv = document.createElement('canvas');
+            canv.id = 'can';
+            canv.classList.add("webgl");
+            document.body.appendChild(canv);
+            document.body.appendChild(s);
+            document.getElementById("but1").style.display = "none";
+
+
+        }
+
+        function myfun3() {
+            document.getElementById("para").value = 2;
+            var s = document.createElement("script");
+            s.type = "module";
+            s.src = "./script.js";
+            var canv = document.createElement('canvas');
+            canv.id = 'can';
+            canv.classList.add("webgl");
+            document.body.appendChild(canv);
+            document.body.appendChild(s);
+            document.getElementById("but2").style.display = "none";
+
+
+        }
+
+        function myfun4() {
+            document.getElementById("para").value = 3;
+            var s = document.createElement("script");
+            s.type = "module";
+            s.src = "./script.js";
+            var canv = document.createElement('canvas');
+            canv.id = 'can';
+            canv.classList.add("webgl");
+            document.body.appendChild(canv);
+            document.body.appendChild(s);
+            document.getElementById("but3").style.display = "none";
+
+
+        }
+    </script>
+
+    <!-- <canvas id="can" class="webgl"></canvas>
+    <script type="module" src="./script.js"></script> -->
+
+</body>
+
+</html>
