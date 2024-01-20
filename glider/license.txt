@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grob Astir
+* source:	https://sketchfab.com/3d-models/grob-astir-0b2bfc642c3d4368b1115003827f34fd
+* author:	helijah (https://sketchfab.com/helijah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grob Astir" (https://sketchfab.com/3d-models/grob-astir-0b2bfc642c3d4368b1115003827f34fd) by helijah (https://sketchfab.com/helijah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hang Glider - Low Poly
+* source:	https://sketchfab.com/3d-models/hang-glider-low-poly-0452c969d0bc44ff8de463e0b94dfb67
+* author:	calebcram (https://sketchfab.com/calebcram)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hang Glider - Low Poly" (https://sketchfab.com/3d-models/hang-glider-low-poly-0452c969d0bc44ff8de463e0b94dfb67) by calebcram (https://sketchfab.com/calebcram) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	ASK 21 Mi
+* source:	https://sketchfab.com/3d-models/ask-21-mi-b69f1e3209ba40dcbb07a662d32736dd
+* author:	helijah (https://sketchfab.com/helijah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ASK 21 Mi" (https://sketchfab.com/3d-models/ask-21-mi-b69f1e3209ba40dcbb07a662d32736dd) by helijah (https://sketchfab.com/helijah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
